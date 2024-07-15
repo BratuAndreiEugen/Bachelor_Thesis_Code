@@ -1,0 +1,23 @@
+{
+  "UrbanSound8K_Path" : "E:\\LICENTA\\UrbanSound8K",
+  "UrbanSound8K_Path_Alt" : "D:\\LICENTA\\UrbanSound8K",
+  "UrbanSound8K_Path_Cloud" : "TBD",
+
+  "IRMAS_Training_Path" : "E:\\LICENTA\\IRMAS-TrainingData",
+  "IRMAS_Training_Path_Alt" : "D:\\LICENTA\\IRMAS-TrainingData",
+
+  "IRMAS_NOVOICE_Training_Path" : "E:\\LICENTA\\IRMAS-TrainingData-NoVoice",
+  "IRMAS_NOVOICE_Training_Path_Alt" : "D:\\LICENTA\\IRMAS-TrainingData-NoVoice",
+
+  "GTZAN_Path" : "E:\\LICENTA\\marsyas_gtzan_genres",
+  "GTZAN_Path_Alt" : "D:\\LICENTA\\marsyas_gtzan_genres\\genres_original",
+
+  "Philarmonia_Path" : "E:\\LICENTA\\Philarmonia_equalised",
+  "Philarmonia_Path_Alt" : "D:\\LICENTA\\Philarmonia_equalised",
+
+  "Kaggle_Path" : "E:\\LICENTA\\instruments_equalised",
+  "Kaggle_Path_Alt" : "D:\\LICENTA\\instruments_equalised",
+
+  "External_Pickle_Path" : "E:\\LICENTA\\instrument_pickles_HDD",
+  "External_Pickle_Path_Alt" : "D:\\LICENTA\\instrument_pickles_HDD"
+}

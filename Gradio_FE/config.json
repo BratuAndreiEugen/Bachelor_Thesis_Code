@@ -1,0 +1,4 @@
+{
+  "API_HOSTNAME" : "http://localhost",
+  "API_PORT" : "5000"
+}

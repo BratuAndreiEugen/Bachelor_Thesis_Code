@@ -1,0 +1,65 @@
+{
+  "Model_Paths" : {
+    "Genre": {
+      "gtzan_svm" : "gtzan/gtzan_svm.joblib",
+      "gtzan_rf" : "gtzan/gtzan_rf.joblib",
+      "gtzan_knn" : "gtzan/gtzan_knn.joblib",
+      "gtzan_cnng1": "gtzan/gtzan_cnng1.keras",
+      "gtzan_rnng1": "gtzan/gtzan_rnng1.keras",
+      "gtzan_resnet": "gtzan/gtzan_resnet.h5"
+    },
+    "Instrument": {
+      "irmas_svm" : "irmas/irmas_svm.joblib",
+      "irmas_rf" : "irmas/irmas_rf.joblib",
+      "irmas_knn" : "irmas/irmas_knn.joblib",
+      "irmas_cnng1": "irmas/irmas_cnng1.keras",
+      "irmas_rnng1": "irmas/irmas_rnng1.keras",
+      "irmas_resnet": "irmas/irmas_resnet.h5",
+      "philarmonia_svm" : "philarmonia/philarmonia_svm.joblib",
+      "philarmonia_rf" : "philarmonia/philarmonia_rf.joblib",
+      "philarmonia_knn" : "philarmonia/philarmonia_knn.joblib",
+      "philarmonia_cnng1": "philarmonia/philarmonia_cnng1.keras",
+      "philarmonia_rnng1": "philarmonia/philarmonia_rnng1.keras",
+      "philarmonia_resnet": "philarmonia/philarmonia_resnet.h5",
+      "kaggle_svm" : "kaggle/kaggle_svm.joblib",
+      "kaggle_rf" : "kaggle/kaggle_rf.joblib",
+      "kaggle_knn" : "kaggle/kaggle_knn.joblib",
+      "kaggle_cnn_one": "kaggle/kaggle_cnn_one.keras",
+      "kaggle_rnn_one": "kaggle/kaggle_rnn_one.keras"
+    }
+  },
+  "Scaler_Paths" : {
+    "Genre": {
+      "gtzan_scaler" : "Scalers/gtzan_skl_scaler.joblib"
+    },
+    "Instrument": {
+      "irmas_scaler" : "Scalers/irmas_skl_scaler.joblib",
+      "philarmonia_scaler" : "Scalers/philarmonia_skl_scaler.joblib",
+      "kaggle_scaler" : "Scalers/kaggle_skl_scaler.joblib",
+      "kaggle_cnn_one_scaler": "Scalers/kaggle_cnn_one_scaler.json",
+      "kaggle_rnn_one_scaler": "Scalers/kaggle_rnn_one_scaler.json"
+    }
+  },
+  "Local_Audio_Files_Path": "audio",
+  "Local_Video_Files_Path": "video",
+
+  "AWS_Audio_Files_Path": "audio",
+  "AWS_Video_Files_Path": "video",
+
+  "AWS_IAM_Access_Key": "TBD",
+  "AWS_IAM_Secret_Key": "TBD",
+
+  "AWS_Region_Name": "eu-north-1",
+  "AWS_S3_Bucket_Name": "musicaibucket",
+
+  "AWS_DB_Username" : "api_login",
+  "AWS_DB_Pass" : "TBD",
+  "AWS_DB_URL" : "localhost",
+  "AWS_DB_Port" : "1433",
+  "Windows_Auth" : "yes",
+
+  "Project_Root": "C:\\Proiecte SSD\\Licenta\\Python_API",
+
+  "Video_Height": 600,
+  "Video_Width": 800
+}
